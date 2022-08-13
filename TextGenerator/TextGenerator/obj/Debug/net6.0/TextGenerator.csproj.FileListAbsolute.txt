@@ -1,0 +1,15 @@
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\bin\Debug\net6.0\TextGenerator.exe
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\bin\Debug\net6.0\TextGenerator.deps.json
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\bin\Debug\net6.0\TextGenerator.runtimeconfig.json
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\bin\Debug\net6.0\TextGenerator.dll
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\bin\Debug\net6.0\TextGenerator.pdb
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\obj\Debug\net6.0\TextGenerator.csproj.AssemblyReference.cache
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\obj\Debug\net6.0\TextGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\obj\Debug\net6.0\TextGenerator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\obj\Debug\net6.0\TextGenerator.AssemblyInfo.cs
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\obj\Debug\net6.0\TextGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\obj\Debug\net6.0\TextGenerator.dll
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\obj\Debug\net6.0\refint\TextGenerator.dll
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\obj\Debug\net6.0\TextGenerator.pdb
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\obj\Debug\net6.0\TextGenerator.genruntimeconfig.cache
+C:\Users\User\Documents\progVStudio\TextGenerator\TextGenerator\obj\Debug\net6.0\ref\TextGenerator.dll
